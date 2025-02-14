@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web & API Data data extraction</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Web & API Data data extraction</h1>
+        <form id="scrapeForm">
+            <label for="urlInput">Enter API or Website URL:</label>
+            <input type="text" id="urlInput" placeholder="https://example.com or API URL" required>
+            <button type="submit">Extract Data</button>
+        </form>
+
+        <h2>Extracted Data</h2>
+        <pre id="output"></pre>
+        <pre id="errorOutput" class="error"></pre>
+
+        <div class="buttons">
+            <a id="jsonDownload" style="display:none;" download="data.json">Download JSON</a>
+            <a id="csvDownload" style="display:none;" download="data.csv">Download CSV</a>
+        </div>
+    </div>
+</body>
+</html>
