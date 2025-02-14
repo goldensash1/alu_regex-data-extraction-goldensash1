@@ -1,7 +1,7 @@
-# Web Scraper with Regex-Based Data Extraction
+# Web data extraction with Regex-Based Data Extraction
 
 ## Overview
-This project is a simple web scraper built using **pure HTML and JavaScript** (no frameworks). It allows users to:
+This project is a simple web data extraction built using **pure HTML and JavaScript** (no frameworks). It allows users to:
 - Scrape data from **APIs or websites**.
 - Extract useful information such as **emails, URLs, phone numbers, credit card numbers, time formats, HTML tags, hashtags, and currency values** using **regular expressions (Regex)**.
 - Save the extracted data as **JSON and CSV** files.
