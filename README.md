@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a simple web data extraction built using **pure HTML and JavaScript** (no frameworks). It allows users to:
-- Scrape data from **APIs or websites**.
+- Extract data from **APIs or websites**.
 - Extract useful information such as **emails, URLs, phone numbers, credit card numbers, time formats, HTML tags, hashtags, and currency values** using **regular expressions (Regex)**.
 - Save the extracted data as **JSON and CSV** files.
 - Display results directly on the webpage.
