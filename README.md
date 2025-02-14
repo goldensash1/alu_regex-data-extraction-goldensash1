@@ -33,7 +33,7 @@ Simple, lightweight, and **framework-free.
 
 6. Click the **"Download JSON"** or **"Download CSV"** button to save the data.
 
-## 📝 Project Files
+## Project Files
 
 - `index.html` - The main webpage containing the form and UI.
 - `script.js` - Handles fetching data, applying regex patterns, and generating downloadable files.
