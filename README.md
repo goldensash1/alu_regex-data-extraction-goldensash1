@@ -65,6 +65,6 @@ Simple, lightweight, and **framework-free.
 
 
 ## Author
-- **Your Name**
+- **Golden Sash Munyankindi**
 - GitHub: [@goldensash1](https://github.com/goldensash1)
 
